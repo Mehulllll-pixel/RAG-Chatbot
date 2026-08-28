@@ -1,9 +1,5 @@
 # Enterprise Grounded RAG Chatbot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
-[![React Version](https://img.shields.io/badge/react-19.0-61dafb.svg)](https://react.dev/)
-[![Docker Support](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 
 A secure, production-grade, on-premise Retrieval-Augmented Generation (RAG) platform. Securely ingest corporate documents, index text fragments into isolated departmental boundaries, and query local LLMs offline. Built for absolute data sovereignty, speed, and enterprise reliability.
 
