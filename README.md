@@ -1,4 +1,4 @@
-# Enterprise Grounded RAG Chatbot 🛡️
+# Enterprise Grounded RAG Chatbot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
@@ -160,7 +160,7 @@ You can launch the entire stack (PostgreSQL, Redis, Backend API, Frontend SPA) w
 
 ---
 
-## 🛡️ Recruiter Demo Sandbox Login
+##   Recruiter Demo Sandbox Login
 Recruiters can immediately explore the platform without creating accounts or indexing documents:
 *   **Email Address:** `demo@enterprise-rag.ai`
 *   **Session Password:** `Demo@123`
